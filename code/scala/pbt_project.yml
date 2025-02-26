@@ -1,0 +1,49 @@
+name: lu.simonis
+description: hardware
+version: 0.0.1
+author: c23znwkt.cw0asfbx@rgjiu9i9.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: lusimonis
+  parentArtefactID: team1740601615043
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-26 20:27:27'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-26 20:27:29'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-26T20:27:29.047576Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '629617250'
+  createdAt: '2025-02-26T20:27:29.047576Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
